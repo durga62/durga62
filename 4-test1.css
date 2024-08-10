@@ -1,0 +1,24 @@
+form{
+    padding-left: 250px;
+    background-color: light palevioletred;
+    color: white;
+    height: 500px;
+    width: 1025px;
+    
+}
+button{
+    margin-left: 100px;
+}
+
+
+h1{
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.d{
+    padding-top: 10px;
+}
+body{
+     background-image: url(f1.jpeg);
+     background-size: cover;
+}
